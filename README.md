@@ -1,2 +1,2 @@
 # helloworld
-belajar github
+belajar [github](www.google.com)
